@@ -163,6 +163,7 @@
 [Times Literary Supplement](https://www.the-tls.co.uk)\
 [Towards Data Science](https://www.towardsdatascience.com)\
 [Trouw](https://www.trouw.nl)\
+[USAToday](https://www.usatoday.com)\
 [Vanity Fair](https://www.vanityfair.com)\
 [Vrij Nederland](https://www.vn.nl)\
 [Winston-Salem Journal](https://journalnow.com)\

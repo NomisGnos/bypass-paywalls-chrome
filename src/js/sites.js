@@ -136,6 +136,7 @@ const defaultSites = {
   'The Washington Post': 'washingtonpost.com',
   'The Wrap': 'thewrap.com',
   'Times Literary Supplement': 'the-tls.co.uk',
+  'USA Today': 'usatoday.com',
   'Towards Data Science': 'towardsdatascience.com',
   'Trouw': 'trouw.nl',
   'Vanity Fair': 'vanityfair.com',
@@ -143,5 +144,5 @@ const defaultSites = {
   'Winston-Salem Journal': 'journalnow.com',
   'Wired': 'wired.com',
   'World Politics Review': 'worldpoliticsreview.com',
-  '*General Paywall Bypass*': 'generalpaywallbypass'
+  '*General Paywall Bypass*': 'generalpaywallbypass',
 };

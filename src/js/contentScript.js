@@ -465,6 +465,17 @@ if (matchDomain('elmercurio.com')) {
   document.querySelectorAll('div[class*="fancybox"]').forEach(function (el) {
     removeDOMElement(el);
   });
+} else if (matchDomain('usatoday.com')) {
+  // remove active class from all elements
+  document.querySelectorAll('div[class*="sp_message"], div[class*="sp_veil"]').forEach(function (el) {
+    removeDOMElement(el);
+  });
+  // Enable Scroll. Reveal Hiddlen Paragraph
+  document.getElementsByTagName('body')[0].removeAttribute('class');
+  const html = document.querySelector('html');
+  html.removeAttribute('style');
+  const body = document.querySelector('body');
+  body.removeAttribute('style');
 }
 
 function matchDomain (domains) {
